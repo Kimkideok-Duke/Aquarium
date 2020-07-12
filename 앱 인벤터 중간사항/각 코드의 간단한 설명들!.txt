@@ -1,0 +1,3 @@
+'Bluetooth_LED'는 앱에서 아두이노로 값 전송하는 코드
+'Bluetoothtest'는 아두이노에서 앱으로 임의의 값 전송하는 코드
+'CP_COP_final_bluetooth'는 최종 코드에 센서값을 앱으로 전송하는 블루투스 코드 추가한 것.
